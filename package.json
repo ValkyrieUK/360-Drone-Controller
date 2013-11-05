@@ -1,0 +1,10 @@
+{
+  "name": "drone-xbox",
+  "version": "0.0.1",
+  "start": "coffee drone-xbox.coffee",
+  "dependencies": {
+    "coffee-script": ">=0",
+    "ar-drone":  ">=0",
+    "xbox-controller": ">=0.1.0"
+  }
+}
