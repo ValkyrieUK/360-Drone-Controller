@@ -4,7 +4,7 @@ Control your Parrot AR Drone with a Xbox 360 controller
 
 ## Usage
 
-git clone https://github.com/andrew/drone-xbox-controller
+git clone https://github.com/ValkyrieUK/360-Drone-Controller
 
 cd drone-xbox-controller
 
@@ -32,7 +32,3 @@ The controller will light up based on percentage of battery left. 4 = full, 1 = 
 ## TODO
 
 Make cli bin
-
-## Copyright
-
-Copyright (c) 2013 Andrew Nesbitt. See [LICENSE](https://github.com/andrew/drone-xbox-controller/blob/master/LICENSE) for details.
