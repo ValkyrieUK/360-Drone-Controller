@@ -52,9 +52,10 @@ maxAngle = 32768
 #change from 1 to -1 to change controller directions
 invert = -1
 
+#LEDs on the xbox controller
 client.on "batteryChange", (battery) ->
   if battery > 75
-    xbox.setLed(0x09)
+    xbox.setLed(0x0A)
   else if battery > 50
     xbox.setLed(0x08)
   else if battery > 25
